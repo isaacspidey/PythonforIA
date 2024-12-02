@@ -1,0 +1,12 @@
+objectid,nombre,direccion,tipozona,tipoemision,so2,no2,o3,co,pm10,pm25,fecha_carga,calidad_ambiental
+14,Boulevar Sur,BULEVARD SUD,Urbana,N/A,2.0,28.0,22.0,N/A,N/A,N/A,N/A,N/A
+15,Molí del Sol,MOLÍ DEL SOL,Suburbana,N/A,3.0,39.0,33.0,0.0,46.0,39.0,N/A,N/A
+17,Universidad Politécnica,POLITÈCNIC,Suburbana,N/A,1.0,34.0,26.0,N/A,36.0,31.0,N/A,N/A
+12,Dr. Lluch,DR.LLUCH,Urbana,N/A,N/A,35.0,N/A,N/A,48.0,32.0,N/A,N/A
+22,Patraix,PATRAIX,Urbana,N/A,N/A,48.0,N/A,N/A,54.0,34.0,N/A,N/A
+18,Viveros,VIVERS,Urbana,N/A,4.0,45.0,32.0,N/A,N/A,N/A,N/A,N/A
+13,Francia,AVDA.FRANCIA,Urbana,N/A,1.0,40.0,27.0,0.0,60.0,31.0,N/A,N/A
+19,Centro,VALÈNCIA CENTRE,Urbana,N/A,N/A,47.0,N/A,N/A,61.0,39.0,N/A,N/A
+20,Cabanyal,CABANYAL,Urbana,N/A,N/A,19.0,N/A,N/A,-1.0,-1.0,N/A,N/A
+16,Pista de Silla,PISTA DE SILLA,Urbana,N/A,5.0,40.0,23.0,0.0,77.0,88.0,N/A,N/A
+21,Olivereta,OLIVERETA,Urbana,N/A,N/A,49.0,N/A,N/A,54.0,39.0,N/A,N/A
